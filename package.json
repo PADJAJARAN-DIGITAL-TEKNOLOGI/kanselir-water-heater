@@ -1,0 +1,28 @@
+{
+  "name": "kanselir-water-heater",
+  "version": "1.0.0",
+  "description": "Hand Made Water Heater",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PADJAJARAN-DIGITAL-TEKNOLOGI/kanselir-water-heater.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PADJAJARAN-DIGITAL-TEKNOLOGI/kanselir-water-heater.git/issues"
+  },
+  "homepage": "https://github.com/PADJAJARAN-DIGITAL-TEKNOLOGI/kanselir-water-heater.git#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-navigation": "^0.3.5"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^2.0.1"
+  }
+}
