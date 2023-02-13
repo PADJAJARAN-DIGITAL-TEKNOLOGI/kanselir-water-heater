@@ -4,12 +4,13 @@
   "phone": "081222722430",
   "phoneFormatted": "(62) 81222722430",
   "address": {
-    "lineOne": "Jl. Padasuka, Pasri Luhur, RT 03 / RW 04, Lebak Gede Kabupaten Banung",
+    "lineOne": "Jl. Padasuka, Pasri Luhur, No 01 RT 03 / RW 04, Lebak Gede Kabupaten Banung",
     "lineTwo": "Desa/Kelurahan Padasuka, Kec. Cimenyan, Provinsi Jawa Barat",
     "city": "Kab. Bandung",
     "county": "Indonesia",
     "postcode": "40000",
     "mapLink": "https://goo.gl/maps/AGUgPK4jNdhojcnq6"
   }, 
-  "domain": "https://kanselirwaterheater.my.id"
+  "domain": "kanselirwaterheater.my.id"
 }
+
